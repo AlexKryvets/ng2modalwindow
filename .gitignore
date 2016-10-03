@@ -1,0 +1,10 @@
+/.idea/
+/bower_components/
+/node_modules/
+/build/
+/debug/
+/typings/
+web.config
+config.prod.json
+config.debug.json
+
